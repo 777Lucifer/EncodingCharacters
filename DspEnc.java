@@ -34,7 +34,7 @@ public class DspEnc
 
 
    public static void main(String[] args) {
-     System.out.println("enter charactors===");
+     System.out.println("enter characters===");
          Scanner input = new Scanner(System.in);
          String s = input.nextLine();
          int n = s.length();
