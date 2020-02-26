@@ -1,4 +1,4 @@
-# EncodingCharactors
+# EncodingCharacters
 It incodes charactor that you want 
  you simply run the java program 
  
@@ -10,4 +10,4 @@ It incodes charactor that you want
  
  java DspEnc 
 
-then type charactors that you wants to encode and hit enter
+then type characters that you wants to encode and hit enter
